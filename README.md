@@ -16,6 +16,7 @@ var a=666;
 3. third 
 4. fore
 5. fifth
+6. six
 
 ---
 - first
