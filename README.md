@@ -29,6 +29,10 @@ var a=666;
 - third
 - fourth
 - fifth
+<<<<<<< HEAD
+=======
+- fifth
+>>>>>>> refs/remotes/origin/secondBranch
 
 
 [this is an anchor](https://www.taobao.com/)
