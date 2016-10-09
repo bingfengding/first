@@ -13,11 +13,11 @@ var a=666;
 ---
 1. first
 2. second
-3. third 
-<<<<<<< HEAD
+3. third
 4. fore
 5. fifth
 6. six
+
 =======
 
 >>>>>>> refs/remotes/origin/bingfengding-patch-1-1
@@ -30,9 +30,7 @@ var a=666;
 - fourth
 - fifth
 <<<<<<< HEAD
-=======
 - fifth
->>>>>>> refs/remotes/origin/secondBranch
 
 
 [this is an anchor](https://www.taobao.com/)
