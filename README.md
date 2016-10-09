@@ -20,7 +20,6 @@ var a=666;
 
 =======
 
->>>>>>> refs/remotes/origin/bingfengding-patch-1-1
 
 ---
 - first
@@ -29,7 +28,6 @@ var a=666;
 - third
 - fourth
 - fifth
-<<<<<<< HEAD
 - fifth
 
 
